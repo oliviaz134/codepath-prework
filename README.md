@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/dn4Zw6B.gif" width=200><br>
+<img src="https://i.imgur.com/CEDIbrU.gif" width=200><br>
 
 
 ### Required User Stories
